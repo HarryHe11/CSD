@@ -1,8 +1,8 @@
 # CSD
-Dataset and Codes for the paper: "Improved Target-specific Stance Detection on Social Media Platform by Delving into Conversation Threads"
+Dataset and Codes for the manuscript: "Improved Target-specific Stance Detection on Social Media Platform by Delving into Conversation Threads"
 
 # Environment Requirements
-* google colab or jupyter notebook
+* Google colab or Jupyter notebook
 
 # Resources
 * [CSD-dataset] is CSD_dataset.xlsx in this repository;
@@ -17,8 +17,8 @@ Dataset and Codes for the paper: "Improved Target-specific Stance Detection on S
 
 ## Testing
 1. Download the Branch_BERT.ckpt model file at the link (https://drive.google.com/drive/folders/1LkhbESCnak6lkX0JCx2lARouyJCfPoJj?usp=sharing) 
-1. Run all the codes in the Section "0. Preparation"
-2. Run all the codes in the Section "5. Testing" 
+2. Run all the codes in the Section "0. Preparation"
+3. Run all the codes in the Section "5. Testing" 
 
 note:
 all file paths in the code need to be adjusted to your own environment
