@@ -5,10 +5,10 @@ Dataset and Codes for the paper: "Improved Target-specific Stance Detection on S
 * google colab or jupyter notebook
 
 # Resources
-* [CSD-dataset] is in this repository
-* [Pre-trained Branch-BERT model and Baselines] (https://drive.google.com/drive/folders/1LkhbESCnak6lkX0JCx2lARouyJCfPoJj?usp=sharing) 
-* [Chinese word embedding](https://github.com/Embedding/Chinese-Word-Vectors)
-* [transformers] (https://github.com/huggingface/transformers)
+* [CSD-dataset] is CSD_dataset.xlsx in this repository;
+* [Pre-trained Branch-BERT model and Baselines] (https://drive.google.com/drive/folders/1LkhbESCnak6lkX0JCx2lARouyJCfPoJj?usp=sharing);
+* [Chinese word embedding] (https://github.com/Embedding/Chinese-Word-Vectors);
+* [transformers] (https://github.com/huggingface/transformers).
 
 # Usage
 ## Training
